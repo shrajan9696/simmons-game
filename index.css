@@ -52,3 +52,11 @@ h1{
   box-shadow: 0 0 20px white;
   background-color: grey;
 }
+.start{
+  width:160px;
+height: 55px;
+font-size: 25px;
+  border: 5px solid black;
+    border-radius: 25%;
+    margin: 10px;
+}
